@@ -1,0 +1,23 @@
+{
+  "name": "com.vallete.website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^0.1.11",
+    "i18next": "^21.9.1",
+    "i18next-browser-languagedetector": "^6.1.5",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.30.0",
+    "eslint-config-next": "11.0.1"
+  }
+}
