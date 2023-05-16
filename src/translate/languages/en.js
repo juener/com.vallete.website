@@ -29,17 +29,17 @@ const messages = {
                 subTitle3part3: "With a deep knowledge on integrations, I connect the real life with virtual solutions making it one.",
             }, 
             middleBottom: {
-                title: "Technologies Used", 
-                subTitle: "Each platform has its strengths and we employ them in the best possible way for your project.", 
-                u1Title: "Java", 
-                u1SubTitle: "An excelent technology to develop business applications to run in any environment.", 
-                u2Title: ".NET C#", 
-                u2SubTitle: "For Windows environment it's a great solution created by Microsoft.", 
-                u3Title: "Vercel", 
-                u3SubTitle: "Propagate on a professional infrastructure and protect your data with the latest state-of-the-art technologies.",
-                u4Title: "React.JS", 
-                u4SubTitle: "The tip of the iceberg as seen by the end user is the gateway to WEB systems.",
-            }, 
+                title: "Technologies",
+                subTitle: "We leverage the strengths of each platform to deliver the best possible results for your project.",
+                u1Title: "Java",
+                u1SubTitle: "Powerful for developing robust, cross-platform backends, with the master-level reliability that we all already know.",
+                u2Title: "Node.js",
+                u2SubTitle: "Your powerful and high-performance backend is now faster than ever, bringing it closer to the frontend experience.",
+                u3Title: "Vercel",
+                u3SubTitle: "Experience the benefits of a professional infrastructure with cutting-edge technologies to ensure the security and integrity of your data.",
+                u4Title: "React",
+                u4SubTitle: "Embrace reactivity! React serves as the user-friendly gateway to web systems, offering a seamless experience for end-users."
+                },
             contact: {
                 title: "Would you like a cup of coffee?", 
                 subTitle: "Let's start a conversation and plan the next steps."

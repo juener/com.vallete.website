@@ -28,17 +28,17 @@ const messages = {
                 subTitle3part3: "Transformo sua idéia em uma aplicação essencial para seu negócio.",
             }, 
             middleBottom: {
-                title: "Tecnologias Utilizadas", 
-                subTitle: "Cada plataforma tem seus pontos fortes e empregamos da melhor maneira possível no projeto.", 
-                u1Title: "Java", 
-                u1SubTitle: "Excelente para desenvolver aplicações empresariais que possam rodar em qualquer ambiente.", 
-                u2Title: ".NET C#", 
-                u2SubTitle: "Familiarizado em ambientes Windows? É uma ótima solução criada pela Microsoft.", 
-                u3Title: "Vercel", 
-                u3SubTitle: "Propague em uma infra-estrutura profissional e proteja seus dados com o que de há de mais moderno.",
-                u4Title: "React.JS", 
-                u4SubTitle: "A ponta do iceberg que é vista pelo usuário final, é a porta de apresentação de sistemas WEB.",
-            }, 
+                title: "Tecnologias",
+                subTitle: "Aproveitamos as vantagens de cada plataforma para fornecer os melhores resultados possíveis para o seu projeto.",
+                u1Title: "Java",
+                u1SubTitle: "Poderoso para desenvolvimento de backends robustos, multiplataforma e com a confiança master que todos nós já conhecemos.",
+                u2Title: "Node.js",
+                u2SubTitle: "Seu backend poderoso e de alto desempenho está mais rápido do que nunca, simplificando e aproximando do frontend.",
+                u3Title: "Vercel",
+                u3SubTitle: "Experimente os benefícios de uma infraestrutura profissional com tecnologias de ponta para garantir a segurança e integridade dos seus dados.",
+                u4Title: "React",
+                u4SubTitle: "Abrace a reatividade! O React serve como o gateway amigável para sistemas web, oferecendo uma experiência perfeita para os usuários finais."
+                },
             contact: {
                 title: "Que tal um café?", 
                 subTitle: "Nada melhor do que uma boa conversa para alinharmos os detalhes deste novo desafio!"

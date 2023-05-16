@@ -1,3 +1,33 @@
+.override {
+    color: black;
+}
+
+/* Banner */
+
+body.is-preload #banner h2 {
+    -moz-transform: none;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    opacity: 1;
+}
+
+    body.is-preload #banner h2:before, body.is-preload #banner h2:after {
+        width: 100%;
+    }
+
+body.is-preload #banner .more {
+    -moz-transform: none;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    opacity: 1;
+}
+
+body.is-preload #banner:after {
+    opacity: 0;
+}
+
 #logo {
 	background-image: url("../../public/images/structure/logo-horizontal.png");
 	background-size: auto 100%;
@@ -21,8 +51,8 @@
     position: fixed;
     bottom: 25px;
     right: 25px;
-    height: 55px;
-    width: 55px;
+    height: 50px;
+    width: 50px;
     padding: 0px;
     border: 0px;
     z-index: 9999;

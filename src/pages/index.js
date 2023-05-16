@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
 import Head from 'next/head'
-import styles from '../styles/structure.module.css'
 
 import Nav from '../components/structure/Nav'
 import Header from '../components/structure/Header';
@@ -16,7 +15,7 @@ import { i18n } from '../translate/i18n';
 export default class Index extends Component {
   render() {
     return (
-      <div className={styles.container}>
+      <div>
         <Head>
           {/* Set page title */}
           <title>{i18n.t('main.title')}</title>
