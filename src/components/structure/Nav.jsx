@@ -6,7 +6,7 @@ export default function Nav() {
     return (
         <>
             <div className='backend'>
-                <a href="https://privileged.vallete.com"><Image alt="backend" src={valleteLogo} /></a>
+                <a href="https://backend.vallete.com/dashboard"><Image alt="backend" src={valleteLogo} /></a>
             </div>
         </>
     );
