@@ -4454,7 +4454,7 @@ body.is-mobile #main>header {
 @media screen and (max-width: 980px) {
 
 	#footer {
-		padding: 4em 3em 2em 3em;
+		padding: 5em 3em 4em 3em;
 	}
 
 }
@@ -4462,7 +4462,7 @@ body.is-mobile #main>header {
 @media screen and (max-width: 736px) {
 
 	#footer {
-		padding: 3em 2em 1em 2em;
+		padding: 5em 2em 5em 2em;
 	}
 
 }
